@@ -22,3 +22,6 @@ Imaginemos que apagamos nuestro equipo incorrectamente. Ext3 se encargará de qu
 Es una mejora compatible de ext3 que utiliza menos CPU y mejora la velocidad de lectura y escritura. Además, soporta volúmenes de hasta 1024 PiB (PebiByte) ( 1 PiB = 2^50 Bytes ). Como acabo de decir, mejora la velocidad de lectura y escritura en comparación con ext3, pero es más lento en la eliminación de archivos.
 
 En ext4 se introducen los exents, que se utilizan para reemplazar al tradicional esquema de bloques utilizado por ext2 y ext3. Los exents mejoran el rendimiento al trabajar con ficheros de gran tamaño.
+
+[Volver](https://github.com/acruma/documents)|[Siguiente - B]()
+--|--
