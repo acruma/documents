@@ -1,6 +1,6 @@
 # Documentos ISO
 
-Apartado|[Administración de dominios.]()|[Administración del acceso al dominio.]()
+Ap.|[Administración de dominios.]()|[Administración del acceso al dominio.]()
 |--|--|--|
 |A|[Se han implementado dominios.]()|[Se han incorporado equipos al dominio.]()
 |B|[Se han administrado cuentas de usuario y cuentas de equipo.]()|[Se han previsto bloqueos de accesos no autorizados al dominio.]()
