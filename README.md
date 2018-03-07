@@ -6,7 +6,7 @@
 
 Ap.|[Administración de dominios.]()|[Administración del acceso al dominio.]()
 |--|--|--|
-|A|[Se han implementado dominios.]()|[Se han incorporado equipos al dominio.]()
+|A|[Se han implementado dominios.](https://github.com/acruma/documents/blob/master/admin_dom/a.md)|[Se han incorporado equipos al dominio.]()
 |B|[Se han administrado cuentas de usuario y cuentas de equipo.]()|[Se han previsto bloqueos de accesos no autorizados al dominio.]()
 |C|[Se ha centralizado la información personal de los usuarios del dominio mediante el uso de perfiles móviles y carpetas personales.]()|[Se ha administrado el acceso a recursos locales y recursos de red.]()
 |D|[Se han creado y administrado grupos de seguridad.]()|[Se han tenido en cuenta los requerimientos de seguridad.]()
