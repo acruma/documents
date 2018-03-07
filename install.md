@@ -1,1 +1,12 @@
 
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/InstWS%20(Con%20I.%20Gr%C3%A1fica)/a01.jpg)
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/InstWS%20(Con%20I.%20Gr%C3%A1fica)/a02.jpg)
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/InstWS%20(Con%20I.%20Gr%C3%A1fica)/a03.jpg)
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/InstWS%20(Con%20I.%20Gr%C3%A1fica)/a04.jpg)
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/InstWS%20(Con%20I.%20Gr%C3%A1fica)/a05.jpg)
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/InstWS%20(Con%20I.%20Gr%C3%A1fica)/a06.jpg)
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/InstWS%20(Con%20I.%20Gr%C3%A1fica)/a07.jpg)
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/InstWS%20(Con%20I.%20Gr%C3%A1fica)/a08.jpg)
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/InstWS%20(Con%20I.%20Gr%C3%A1fica)/a09.jpg)
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/InstWS%20(Con%20I.%20Gr%C3%A1fica)/a10.jpg)
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/InstWS%20(Con%20I.%20Gr%C3%A1fica)/a11.jpg)
