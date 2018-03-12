@@ -40,20 +40,22 @@ Al cerrarse la ventana, volvemos a la ventana Permisos de Perfiles. Nos aseguram
 
 También podemos evitar que accedan a la carpeta el resto de los usuarios.
 
+![imagen](https://github.com/smxrlxp/dominios.html/blob/master/assets/c/9.png)
+
 Después de esto, ya podemos cerrar todas las ventanas….
 
-![imagen](https://github.com/smxrlxp/dominios.html/blob/master/assets/c/9.png)
+![imagen](https://github.com/smxrlxp/dominios.html/blob/master/assets/c/10.png)
 
 ### Cambiar el lugar donde el usuario o los usuarios guardan su perfil
 
 A partir de ahora es cuando realmente vamos a crear el perfil móvil. Para conseguirlo, volveremos a la consola Usuarios y equipos de Active Directory y localizamos la cuenta (o cuentas) a la que queremos asignar el perfil móvil. Cuando la localicemos, haremos clic con el botón derecho del ratón sobre ella.
 
-![imagen](https://github.com/smxrlxp/dominios.html/blob/master/assets/c/10.png)
+![imagen](https://github.com/smxrlxp/dominios.html/blob/master/assets/c/11.png)
 
 En la ventana de propiedades de la cuenta, hacemos clic sobre la solapa Perfil. En ella, debemos dar valor al cuadro de texto Ruta de acceso al perfil. El contenido seguirá el siguiente formato:
 
 `\\servidor\carpeta_compartida\nombre_usuario`
 
-![imagen](https://github.com/smxrlxp/dominios.html/blob/master/assets/c/11.png)
+![imagen](https://github.com/smxrlxp/dominios.html/blob/master/assets/c/12.png)
 
 Y... Listo!
