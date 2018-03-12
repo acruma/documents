@@ -32,7 +32,7 @@ A continuación, aparece la ventana Seleccionar Usuarios, Equipos, Cuentas de se
 
 ![imagen](https://github.com/smxrlxp/dominios.html/blob/master/assets/c/6.png)
 
-Al cerrarse la ventana, volvemos a la ventana Permisos de Perfiles. Nos aseguramos de que está seleccionado el grupo seleccionado...
+Nos aseguramos de que está seleccionado el grupo seleccionado...
 
 ![imagen](https://github.com/smxrlxp/dominios.html/blob/master/assets/c/7.png)
 
