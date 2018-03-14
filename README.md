@@ -4,7 +4,7 @@
 
 # Documentos ISO
 
-Ap.|[Administración de dominios.]()|[Administración del acceso al dominio.]()
+Ap.|[Administración de dominios.](https://github.com/acruma/documents#documentos-iso)|[Administración del acceso al dominio.](https://github.com/acruma/documents#documentos-iso)
 |--|--|--|
 |A|[Se han implementado dominio.](https://github.com/acruma/documents/blob/master/admin_dom/a.md)|[Se han incorporado equipos al dominio.]()
 |B|[Se han administrado cuentas de usuario y cuentas de equipo.](https://github.com/acruma/documents/blob/master/admin_dom/b.md)|[Se han previsto bloqueos de accesos no autorizados al dominio.]()
