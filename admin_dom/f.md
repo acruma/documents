@@ -21,3 +21,5 @@ Tambien se pueden organizar los distintos grupos.
 
 ![imagen](https://github.com/smxrlxp/dominios.html/blob/master/assets/f/7.png)
 ![imagen](https://github.com/smxrlxp/dominios.html/blob/master/assets/f/8.png)
+
+Adicionalmente se pueden administrar los distintos objetos, copiandolos, cortandolos, moviendolos... etc.
