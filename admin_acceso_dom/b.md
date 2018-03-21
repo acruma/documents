@@ -35,3 +35,53 @@ Con esta política se pueden descifrar contraseñas que han sido previamente cif
 Para realizar cualquier cambio sobre dicha política daremos doble clic sobre ella y podremos habilitarla o deshabilitarla según sea la necesidad.
 
 ![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b-acceso-dominio/5.png)
+
+### Exigir historial de contraseñas
+
+Con esta política determinamos la cantidad de nuevas contraseñas deben estar asociadas a la cuenta antes de poder usar de nuevo la contraseña antigua. El usar la misma contraseña de forma seguida puede resultar en una fallo de seguridad dentro de nuestra gestión ya que esta será más vulnerable a un ataque de fuerza bruta.
+
+El valor por defecto es 10 lo cual indica que hasta dentro de 10 cambios de contraseñas nuevas podremos usar la contraseña actual.
+
+Podemos configurar el rango de veces entre 0 y 24 pero el objetivo, a nivel de seguridad, es establecer la mayor cantidad de veces posibles.
+
+Para su edición daremos doble clic sobre la política y editaremos los valores según sean necesarios.
+
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b-acceso-dominio/6.png)
+
+### La contraseña debe cumplir los requisitos de complejidad
+
+Esta es una de las políticas más vitales para llevar a cabo una excelente configuración de políticas de contraseñas ya que acá definiremos los niveles de complejidad que deben ser obligatorios aplicar a la contraseña asignada por el usuario.
+ 
+Con esta política indicamos la serie de requisitos a ser aplicados durante la creación de la contraseña como:
+
+>La contraseña no debe contener el samAccountName (Nombre de cuenta del usuario) o el DisplayName
+>(Nombre desplegado) sin importar si son mayúsculas o minúsculas.
+>Recomendable que posea los siguientes atributos:
+>Longitud mínima de 8 caracteres.
+>Contener caracteres especiales como ,!, $, #, %.
+>Incluir números.
+>Incluir letras mayúsculas y minúsculas.
+
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b-acceso-dominio/7.png)
+
+### Longitud mínima de la contraseña
+
+Con esta política indicamos la cantidad mínima de caracteres que debe contener la contraseña para que sea aceptada por el sistema.
+
+Allí podremos establecer valores entre 1 y 14 pero si dejamos el valor en 0 significa que el usuario ingresara sin contraseña. El valor por defecto en Windows Server 2016 es de 7 caracteres.
+
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b-acceso-dominio/8.png)
+
+### Vigencia máxima de la contraseña
+
+Esta política nos permite definir la cantidad de tiempo, en días, en las cuales la contraseña caducará y será necesario forzar al usuario a cambiarla por una nueva siguiendo las políticas configuradas. El valor por defecto es 42 días.
+
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b-acceso-dominio/9.png)
+
+### Vigencia mínima de la contraseña
+
+Indica el tiempo en el cual una contraseña puede ser usada antes de que el usuario decida modificarla. Allí podremos establecer tiempos entre 0 y 998 días.
+
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b-acceso-dominio/10.png)
+
+
