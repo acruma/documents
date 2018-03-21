@@ -85,3 +85,30 @@ Indica el tiempo en el cual una contraseña puede ser usada antes de que el usua
 ![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b-acceso-dominio/10.png)
 
 
+Otra de las políticas a nivel de seguridad primordiales en Windows Server 2016 es la del bloqueo de cuentas ya que a través de ella podremos definir si un usuario no autorizado está intentando acceder al sistema y esto lo logramos configurando dicha política para que después de tres intentos fallidos la cuenta sea bloqueada por lo cual deben recurrir al administrador para su desbloqueo.
+
+Allí tenemos la posibilidad de configurar los siguientes parámetros:
+
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b-acceso-dominio/11.png)
+
+### Duración del bloqueo de cuenta
+
+Esta política nos perite definir la cantidad de tiempo en la cual la cuenta involucrada permanecerá bloqueada y este tiempo se expresa en minutos en un rango entre 1 y 99.999 minutos; Si establecemos el valor cero (0) solo un administrador podrá desbloquear dicha cuenta.
+
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b-acceso-dominio/12.png)
+
+### Restablecer el bloqueo de cuenta después de
+
+Con esta política definimos la cantidad de tiempo en minutos que deben pasar antes que el contador de intento de inicio de sesión este en cero para intentar nuevamente acceder a la cuenta.
+
+Allí podremos definir un valor entre 1 y 99.999 minutos.
+
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b-acceso-dominio/13.png)
+
+### Umbral de bloqueo de cuenta
+
+Esta es la política que nos permite llevar un control especial en términos de seguridad ya que allí definiremos la cantidad de intentos de inicio de sesión fallidos antes de que la cuenta sea bloqueada.
+
+Es importante anotar que si dicho valor está en cero la cuenta no será bloqueada por lo cual esa opción no es recomendable. Allí podremos definir un valor entre 0 y 999. Esta política es la principal en esta sección ya que una vez bloqueada por intentos de sesión fallidos solo un administrador tendrá el derecho para deshabilitarla.
+
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b-acceso-dominio/14.png)
