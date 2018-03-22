@@ -29,19 +29,41 @@ En cada una de estas directivas encontraremos tres carpetas principales
 
 ### Configuración de usuario - Directivas
 
-##### Configuración de software .....
+##### Configuración de software 
+
+En este apartado podremos imponer directivas sobre la instalación de software por parte del usuario.
 
 ![img](https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/11_a.png)
 
-##### Configuración de Windows .....
+##### Configuración de Windows
+
+Aqui, podremos administrar directivas sobre;
+
+>`Scripts` de inicios y cierres de sesión
+>Configuración de seguridad 
+>Redirección de carpetas
+>Calidad de servicios basadas en directivas
+>Impresoras implementadas
 
 ![img](https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/11_b.png)
 
-En este mismo apartado se encuentra la `Configuración de seguridad` .....
+En este mismo apartado se encuentra la `Configuración de seguridad`
+
+Donde podremos crear configuraciones adicionales sobre la seguridad tanto en claves públicas como en restricciones de software
 
 ![img](https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/11_d.png)
 
-##### Plantillas administrativas .....
+##### Plantillas administrativas
+
+Aqui, podremos crear plantillas para la administración en los siguientes apartados;
+
+>Active Desktop
+>Carpetas compartidas
+>Componentes de Windows
+>Menú de Inicio y barra de Tareas
+>Panel de control
+>Red
+>Sistema
 
 ![img](https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/11_c.png)
 
