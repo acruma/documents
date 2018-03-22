@@ -44,3 +44,21 @@ En este mismo apartado se encuentra la `Configuración de seguridad` .....
 ##### Plantillas administrativas .....
 
 ![img](https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/11_c.png)
+
+### Configuración del equipo - Directivas
+
+##### Configuración de software .....
+
+![img](https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/10_a.png)
+
+##### Configuración de Windows .....
+
+![img](https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/10_b.png)
+
+En este mismo apartado se encuentra la `Configuración de seguridad` .....
+
+![img](https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/10_d.png)
+
+##### Plantillas administrativas .....
+
+![img](https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/10_c.png)
