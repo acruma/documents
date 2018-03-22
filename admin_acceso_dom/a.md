@@ -67,3 +67,23 @@ Si lo encuentra, deberemos escribir un nombre de usuario y una contraseña, pert
 La ventana de autenticación se cierra y en su lugar aparece un mensaje indicando que el equipo se ha unido correctamente al dominio. A continuación, aparece una nueva ventana informativa indicando que deberemos reiniciar el equipo para que se apliquen los cambios, pero que antes deberemos cerrar todos los programas y guardar todos los archivos que tengamos abiertos. Cuando cerremos la ventana de Propiedades del sistema, detectará que ya no hay programas en ejecución y nos dará la oportunidad de reiniciar en ese momento.
 
 ![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/a/a08.jpg)
+
+#### Iniciar sesión en el dominio:
+
+Cuando haya concluido el reinicio, procederemos a iniciar sesión con una de las cuentas de usuario del dominio, por ejemplo, la cuenta Smxrlxp, que creamos en el documento anterior.
+
+De forma predeterminada, el sistema nos ofrece iniciar sesión con el último usuario con el que hayamos trabajado. Sin embargo, en este caso se trata del usuario local (en nuestro ejemplo, se llamaba usuario).
+
+Para iniciar sesión con un usuario diferente, hacemos clic Otro usuario en la parte inferior izquierda de la pantalla.
+
+La pantalla cambiará para mostrarnos un cuadro de texto donde escribir el nombre de la cuenta y, debajo,  la contraseña de dicha cuenta en el dominio.
+
+Observa que, como el equipo ya es miembro del dominio, bajo el cuadro de texto de la contraseña aparece un mensaje indicándonos que se iniciará sesión en el dominio MATSER.
+
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/a/a09.jpg)
+
+Después de esto, se iniciará la sesión de la forma estándar, aunque notarás que tarda un poco más, debido a que se está creando la información de perfil del nuevo usuario. Mientras tanto, nos mantendrá ocupados mostrándonos mensajes en la pantalla.
+
+Cuando termine de configurar todo, accederemos al escritorio principal y como podemos ver en la siguiente imagen, todo se ha configurado correctamente.
+
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/a/a10.jpg)
