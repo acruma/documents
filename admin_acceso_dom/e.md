@@ -20,3 +20,27 @@ Haciendo click derecho sobre la directiva que queramos podremos editarla pulsand
 Dentro de la GPO encontraremos directivas para `Usuarios` y `Equipos`.
 
 En cada una de estas directivas encontraremos tres carpetas principales
+
+>Configuración de software
+>Configuración de Windows
+>Plantillas Administrativas
+
+![img](https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/7.png)
+
+### Configuración de usuario - Directivas
+
+##### Configuración de software .....
+
+https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/11_a.png
+
+##### Configuración de Windows .....
+
+https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/11_b.png
+
+En este mismo apartado se encuentra la `Configuración de seguridad` .....
+
+https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/11_d.png
+
+##### Plantillas administrativas .....
+
+https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/11_c.png
