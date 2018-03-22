@@ -22,7 +22,9 @@ Dentro de la GPO encontraremos directivas para `Usuarios` y `Equipos`.
 En cada una de estas directivas encontraremos tres carpetas principales
 
 >Configuración de software
+
 >Configuración de Windows
+
 >Plantillas Administrativas
 
 ![img](https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/7.png)
@@ -40,9 +42,13 @@ En este apartado podremos imponer directivas sobre la instalación de software p
 Aqui, podremos administrar directivas sobre;
 
 >`Scripts` de inicios y cierres de sesión
+
 >Configuración de seguridad 
+
 >Redirección de carpetas
+
 >Calidad de servicios basadas en directivas
+
 >Impresoras implementadas
 
 ![img](https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/11_b.png)
@@ -58,11 +64,17 @@ Donde podremos crear configuraciones adicionales sobre la seguridad tanto en cla
 Aqui, podremos crear plantillas para la administración en los siguientes apartados;
 
 >Active Desktop
+
 >Carpetas compartidas
+
 >Componentes de Windows
+
 >Menú de Inicio y barra de Tareas
+
 >Panel de control
+
 >Red
+
 >Sistema
 
 ![img](https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/11_c.png)
@@ -80,9 +92,13 @@ En este apartado podremos imponer directivas sobre la instalación de software p
 Aqui, podremos administrar directivas sobre;
 
 >`Scripts` de inicios y cierres de sesión
+
 >Configuración de seguridad 
+
 >Directivas de resoluciones de nombres
+
 >Calidad de servicios basadas en directivas
+
 >Impresoras implementadas
 
 ![img](https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/10_b.png)
@@ -92,20 +108,35 @@ En este mismo apartado se encuentra la `Configuración de seguridad`
 Aqui, podremos adminsitrar configuraciones extras de seguridad como pueden ser...
 
 >Directivas de cuentas
+
 >Directivas locales
+
 >Registro de eventos
+
 >Grupos Restringidos
+
 >Servicios del sistema
+
 >Registro
+
 >Sistema de archivos
+
 >Directivas de red cableada
+
 >Firewall de Windows con seguridad avanzadas
+
 >Directivas de Administración
+
 >Directivas de red inalambrica
+
 >Directivas de clave publica 
+
 >Restricciones de software
+
 >Control de aplicaciones
+
 >Seguridad de IP en Active Directory
+
 >Configuración de directiva de auditoria avanzada
 
 ![img](https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/10_d.png)
@@ -115,11 +146,17 @@ Aqui, podremos adminsitrar configuraciones extras de seguridad como pueden ser..
 Aqui, podremos crear plantillas para la administración en los siguientes apartados;
 
 >Servidor
+
 >Impresoras
+
 >Componentes de Windows
+
 >Menú de Inicio y barra de Tareas
+
 >Panel de control
+
 >Red
+
 >Sistema
 
 ![img](https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/10_c.png)
