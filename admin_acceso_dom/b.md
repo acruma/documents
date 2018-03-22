@@ -2,11 +2,11 @@
 
 Para iniciar el proceso de configuración de las políticas de contraseña en Windows Server 2016 debemos acceder al editor de políticas de grupo y para ello contamos con las siguientes opciones. Accedemos al `Panel de control`, en la esquina superior derecha escogemos iconos pequeños. Luego `Herramientas administrativas`.
 
-![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b-acceso-dominio/1.png)
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b/1.png)
 
 Y allí seleccionar la opción `Directiva de seguridad local`.
 
-![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b-acceso-dominio/2.png)
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b/2.png)
 
 Una vez allí podrian darse las siguientes rutas; 
 
@@ -20,11 +20,11 @@ Una vez allí podrian darse las siguientes rutas;
 
 >5. Directiva de contraseñas.
 
-![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b-acceso-dominio/3.png)
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b/3.png)
 
 Podemos ver que dicha política `Directiva de contraseñas` se compone de múltiples elementos como son:
 
-![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b-acceso-dominio/4.png)
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b/4.png)
  
 ### Almacenar contraseñas con cifrado reversible
 
@@ -34,7 +34,7 @@ Con esta política se pueden descifrar contraseñas que han sido previamente cif
 
 Para realizar cualquier cambio sobre dicha política daremos doble clic sobre ella y podremos habilitarla o deshabilitarla según sea la necesidad.
 
-![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b-acceso-dominio/5.png)
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b/5.png)
 
 ### Exigir historial de contraseñas
 
@@ -46,7 +46,7 @@ Podemos configurar el rango de veces entre 0 y 24 pero el objetivo, a nivel de s
 
 Para su edición daremos doble clic sobre la política y editaremos los valores según sean necesarios.
 
-![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b-acceso-dominio/6.png)
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b/6.png)
 
 ### La contraseña debe cumplir los requisitos de complejidad
 
@@ -62,7 +62,7 @@ Con esta política indicamos la serie de requisitos a ser aplicados durante la c
 >Incluir números.
 >Incluir letras mayúsculas y minúsculas.
 
-![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b-acceso-dominio/7.png)
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b/7.png)
 
 ### Longitud mínima de la contraseña
 
@@ -70,32 +70,32 @@ Con esta política indicamos la cantidad mínima de caracteres que debe contener
 
 Allí podremos establecer valores entre 1 y 14 pero si dejamos el valor en 0 significa que el usuario ingresara sin contraseña. El valor por defecto en Windows Server 2016 es de 7 caracteres.
 
-![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b-acceso-dominio/8.png)
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b/8.png)
 
 ### Vigencia máxima de la contraseña
 
 Esta política nos permite definir la cantidad de tiempo, en días, en las cuales la contraseña caducará y será necesario forzar al usuario a cambiarla por una nueva siguiendo las políticas configuradas. El valor por defecto es 42 días.
 
-![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b-acceso-dominio/9.png)
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b/9.png)
 
 ### Vigencia mínima de la contraseña
 
 Indica el tiempo en el cual una contraseña puede ser usada antes de que el usuario decida modificarla. Allí podremos establecer tiempos entre 0 y 998 días.
 
-![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b-acceso-dominio/10.png)
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b/10.png)
 
 
 Otra de las políticas a nivel de seguridad primordiales en Windows Server 2016 es la del bloqueo de cuentas ya que a través de ella podremos definir si un usuario no autorizado está intentando acceder al sistema y esto lo logramos configurando dicha política para que después de tres intentos fallidos la cuenta sea bloqueada por lo cual deben recurrir al administrador para su desbloqueo.
 
 Allí tenemos la posibilidad de configurar los siguientes parámetros:
 
-![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b-acceso-dominio/11.png)
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b/11.png)
 
 ### Duración del bloqueo de cuenta
 
 Esta política nos perite definir la cantidad de tiempo en la cual la cuenta involucrada permanecerá bloqueada y este tiempo se expresa en minutos en un rango entre 1 y 99.999 minutos; Si establecemos el valor cero (0) solo un administrador podrá desbloquear dicha cuenta.
 
-![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b-acceso-dominio/12.png)
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b/12.png)
 
 ### Restablecer el bloqueo de cuenta después de
 
@@ -103,7 +103,7 @@ Con esta política definimos la cantidad de tiempo en minutos que deben pasar an
 
 Allí podremos definir un valor entre 1 y 99.999 minutos.
 
-![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b-acceso-dominio/13.png)
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b/13.png)
 
 ### Umbral de bloqueo de cuenta
 
@@ -111,4 +111,4 @@ Esta es la política que nos permite llevar un control especial en términos de 
 
 Es importante anotar que si dicho valor está en cero la cuenta no será bloqueada por lo cual esa opción no es recomendable. Allí podremos definir un valor entre 0 y 999. Esta política es la principal en esta sección ya que una vez bloqueada por intentos de sesión fallidos solo un administrador tendrá el derecho para deshabilitarla.
 
-![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b-acceso-dominio/14.png)
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/b/14.png)
