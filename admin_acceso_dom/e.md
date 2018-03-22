@@ -89,6 +89,25 @@ Aqui, podremos administrar directivas sobre;
 
 En este mismo apartado se encuentra la `Configuración de seguridad`
 
+Aqui, podremos adminsitrar configuraciones extras de seguridad como pueden ser...
+
+>Directivas de cuentas
+>Directivas locales
+>Registro de eventos
+>Grupos Restringidos
+>Servicios del sistema
+>Registro
+>Sistema de archivos
+>Directivas de red cableada
+>Firewall de Windows con seguridad avanzadas
+>Directivas de Administración
+>Directivas de red inalambrica
+>Directivas de clave publica 
+>Restricciones de software
+>Control de aplicaciones
+>Seguridad de IP en Active Directory
+>Configuración de directiva de auditoria avanzada
+
 ![img](https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/10_d.png)
 
 ##### Plantillas administrativas
