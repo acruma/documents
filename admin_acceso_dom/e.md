@@ -69,18 +69,38 @@ Aqui, podremos crear plantillas para la administración en los siguientes aparta
 
 ### Configuración del equipo - Directivas
 
-##### Configuración de software .....
+##### Configuración de software
+
+En este apartado podremos imponer directivas sobre la instalación de software por parte del equipo.
 
 ![img](https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/10_a.png)
 
-##### Configuración de Windows .....
+##### Configuración de Windows
+
+Aqui, podremos administrar directivas sobre;
+
+>`Scripts` de inicios y cierres de sesión
+>Configuración de seguridad 
+>Directivas de resoluciones de nombres
+>Calidad de servicios basadas en directivas
+>Impresoras implementadas
 
 ![img](https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/10_b.png)
 
-En este mismo apartado se encuentra la `Configuración de seguridad` .....
+En este mismo apartado se encuentra la `Configuración de seguridad`
 
 ![img](https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/10_d.png)
 
-##### Plantillas administrativas .....
+##### Plantillas administrativas
+
+Aqui, podremos crear plantillas para la administración en los siguientes apartados;
+
+>Servidor
+>Impresoras
+>Componentes de Windows
+>Menú de Inicio y barra de Tareas
+>Panel de control
+>Red
+>Sistema
 
 ![img](https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/10_c.png)
