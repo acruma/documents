@@ -31,16 +31,16 @@ En cada una de estas directivas encontraremos tres carpetas principales
 
 ##### Configuración de software .....
 
-https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/11_a.png
+![img](https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/11_a.png)
 
 ##### Configuración de Windows .....
 
-https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/11_b.png
+![img](https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/11_b.png)
 
 En este mismo apartado se encuentra la `Configuración de seguridad` .....
 
-https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/11_d.png
+![img](https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/11_d.png)
 
 ##### Plantillas administrativas .....
 
-https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/11_c.png
+![img](https://raw.githubusercontent.com/smxrlxp/dominios.html/master/assets/admin_acceso_dom/e/11_c.png)
