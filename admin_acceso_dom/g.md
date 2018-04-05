@@ -1,1 +1,3 @@
+Mayormente las incidencias que hemos podido tener, es quizas hacer uso de una o varias maquinas virtuales en dispositivos que no tenian los suficientes requisitos de hardware. Por lo que, nos a tomado bastante tiempo, tanto actualizar los equipos, como instalar roles, o incluso al haber creado una maquina virtual con poco espacio, y que luego las actualizaciones no se pudieran hacer por falta de espacio. Como agregar ordenadores para conectarlos al servidor, que tuvimos que hacerlo mediante ordenadores conectados en LAN y sin maquina virtual todo desde el mismo equipo.
 
+Por lo demas, apenas hemos tenido dificultades o problemas al hacer esta guia.
