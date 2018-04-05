@@ -106,3 +106,20 @@ Si no hemos cerrado antes, al terminar aparecerá un resumen de los datos copiad
 Una vez cerrado el asistente, en la ventana Copias de seguridad de Windows veremos una entrada con la copia recién realizada. Aquí irán apareciendo las diferentes copias que se vayan haciendo a lo largo del tiempo.
 
 ![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/d/d16.jpg)
+
+#### Windows Update
+
+Un requisito muy importante a tener en cuenta respecto a la seguridad es tener actualizado el servidor. Para ello Windows cuenta con una herramienta propia que busca las actualizaciones necesarias. Para acceder a ella solo tenemos que entrar en el apartado de configuración del servidor. Hacemos clic en Actualización y Seguridad y en el apartado de Windows Update podremos buscar las actualizaciones e instalarlas.
+
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/d/d17.jpg)
+
+#### Windows Defender
+
+Otro requisito a tener en cuenta es Windows Defender. Este programa previene, elimina y pone en cuarentena cualquier software espía. Para acceder a él tendremos que acceder al mismo lugar que con Windows Update pero nos posicionamos en el apartado de Windows Defender. Una vez abierto el programa podemos hacer un examen del sistema pero previamente tendremos que haber actualizado las definiciones de virus y spyware.
+
+![img](https://github.com/smxrlxp/dominios.html/blob/master/assets/admin_acceso_dom/d/d18.jpg)
+
+
+
+
+
